@@ -1,2 +1,4 @@
 mountpoints:
   /: https://author-p57723-e572978.adobeaemcloud.com/bin/franklin.delivery/rnagaraj/aem-eds-poc/main
+  type: "markup"
+  suffix: ".html"
